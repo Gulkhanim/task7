@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #faf8f8;
+}
+header{
+    background-color: rgb(49, 49, 49);
+padding:20px;
+margin-bottom: 25px;
+}
+header h1{
+    color: white;
+    text-align: center;
+font-family:"Georgia",Times New Roman,Times,serif;
+}
+.main{
+  
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 20px;
+    
+}
+.left{
+    
+float: left;
+width: 29%;
+margin: 0 auto0;
+}
+ img{
+    width: 200px;
+    height: 200px;
+}
+
+.para{
+  float: left;
+    width: 29%;
+padding-top: 43px;
+font-weight: 400;
+font-size: 20px;
+
+}
+
+
+.right{
+    float: right;
+    width: 30%;
+    margin-left: 60px;
+    padding-top: 15px;
+    color: rgb(16, 17, 17);
+    font-weight: 400;
+font-size: 20px;
+}
+
+.Contact{
+margin-bottom: 15px;
+
+}
+.li1{
+    font-weight: 700;
+}
+.li2{
+   padding-top: 5px; 
+   font-weight: 700;
+}
+
+.li3{
+    padding-top: 5px;   
+    font-weight: 700;
+}
+
+.link{
+    color: crimson;
+    
+    font-weight: 400;
+}
